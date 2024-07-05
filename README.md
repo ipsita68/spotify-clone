@@ -95,3 +95,15 @@ This project is a Spotify-based web application built with React. It allows user
 
 ## Screenshot of app
 ![image](https://github.com/ipsita68/spotify-clone/assets/121110612/a7115bc6-537f-425c-b68d-95f7feee94ea)
+
+![image](https://github.com/ipsita68/spotify-clone/assets/121110612/d2f1c909-4470-4a95-a477-8ad54fd069a6)
+
+![image](https://github.com/ipsita68/spotify-clone/assets/121110612/18347432-3a53-4f3b-8ff4-c52d1ccbe053)
+
+![image](https://github.com/ipsita68/spotify-clone/assets/121110612/058dcbfe-9487-4ac6-96f5-b5c5e0e58fcc)
+
+![image](https://github.com/ipsita68/spotify-clone/assets/121110612/9fe64f37-2bec-4e0d-845b-c52de05dd84e)
+
+
+
+
