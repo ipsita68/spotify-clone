@@ -1,5 +1,5 @@
 
-# Spotify React App
+# Spotify Clone React App
 
 This project is a Spotify-based web application built with React. It allows users to authenticate with Spotify, view their playlists, and interact with the Spotify API.
 
